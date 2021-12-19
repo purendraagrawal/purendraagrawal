@@ -1,8 +1,8 @@
-I help professional software engineers (backend, frontend, qa) to develop their quality mindset and deliver bug-free software so they become top-level engineers and get hired for the best positions in the market.
+I am professional software engineer and my work is to develop a quality mindset and deliver bug-free software
 
 - 👋 Hi, I’m Senior Test Analyst
-- 👀 I’m interested in learning Java, Selenium , Rest-assured, Python, SQL
-- 🌱 I’m currently learning Java
+- 👀 I’m working with these technologies and frameworks: Java, Selenium , Rest-assured, Python, SQL
+- 🌱 I’m currently learning Java 8
 - 💞️ I’m looking to collaborate on Automation testing projects
 - 📫 How to reach me -- Mail me at purendra.agrawal@gmail.com
 
