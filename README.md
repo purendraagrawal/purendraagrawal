@@ -1,6 +1,6 @@
 I help professional software engineers (backend, frontend, qa) to develop their quality mindset and deliver bug-free software so they become top-level engineers and get hired for the best positions in the market.
 
-- 👋 Hi, I’m Test Analyst
+- 👋 Hi, I’m Senior Test Analyst
 - 👀 I’m interested in learning Java, Selenium , Rest-assured, Python, SQL
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Automation testing projects
