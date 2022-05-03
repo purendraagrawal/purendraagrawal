@@ -1,6 +1,6 @@
 I am professional software engineer and my work is to develop a quality mindset and deliver bug-free software
 
-- 👋 Hi, I’m Senior Test Analyst
+- 👋 Hi, I’m Lead Software Engineer
 - 👀 I’m working with these technologies and frameworks: Java, Selenium , Rest-assured, Python, SQL
 - 🌱 I’m currently learning Java 8
 - 💞️ I’m looking to collaborate on Automation testing projects
